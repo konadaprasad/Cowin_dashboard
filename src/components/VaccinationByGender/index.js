@@ -25,7 +25,7 @@ const VaccinationByGender = props => {
           <Legend
             iconType="circle"
             layout="horizontal"
-            horizontalAlign="middle"
+            horizontalAlign="bottom"
             align="center"
           />
         </PieChart>
